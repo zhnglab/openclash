@@ -8,6 +8,9 @@ DOMAIN-KEYWORD,1e100
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,api.thetvdb.com
+DOMAIN-SUFFIX,api.telegram.org
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dns.umbrella.com
