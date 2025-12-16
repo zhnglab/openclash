@@ -19,3 +19,9 @@ DOMAIN-SUFFIX,speedtest.net
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
+
+# emby个人服
+DOMAIN-SUFFIX,ftiy.org
+
+# 群晖DDNS获取IP
+DOMAIN-SUFFIX,checkip.synology.com
