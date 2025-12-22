@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,0512988.xyz
 
 # 通用网站
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,halo.run
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
