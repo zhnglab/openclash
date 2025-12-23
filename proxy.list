@@ -31,3 +31,17 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
+#烟斗客
+DOMAIN-SUFFIX,danishpipeshop.com
+DOMAIN-SUFFIX,tecon-gmbh.de
+DOMAIN-SUFFIX,peterheinrichs.de
+DOMAIN-SUFFIX,smokingpipes.com
+DOMAIN-SUFFIX,70cigars.com
+DOMAIN-SUFFIX,bollitopipe.it
+DOMAIN-SUFFIX,pipeonline.it
+DOMAIN-SUFFIX,huashengyansi.cv
+DOMAIN-SUFFIX,4noggins.com
+DOMAIN-SUFFIX,tobaccoreviews.com
+DOMAIN-SUFFIX,cgarsltd.co.uk
+DOMAIN-SUFFIX,smoke.co.uk
