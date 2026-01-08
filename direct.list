@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,zwyh2007.top
 # 通用网站
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,halo.run
+DOMAIN-SUFFIX,m-team.io
+
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
