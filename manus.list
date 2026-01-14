@@ -1,1 +1,12 @@
+# 代理补充列表
 
+# 域名后缀匹配
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manus.computer
+DOMAIN-SUFFIX,manus.computer
+DOMAIN-SUFFIX,manuscdn.com
+DOMAIN-SUFFIX,manus.ai
+
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,manus
