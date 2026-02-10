@@ -55,9 +55,7 @@ DOMAIN-SUFFIX,huice.com
 DOMAIN-SUFFIX,banxiaoer.net
 DOMAIN-SUFFIX,banxiaoer.com
 DOMAIN-SUFFIX,dytt8899.com
-DOMAIN-SUFFIX,epson.com
-DOMAIN-SUFFIX,epson.com.cn
-DOMAIN-SUFFIX,epsonconnect.com
+DOMAIN-SUFFIX,dns.msftncsi.com
 
 
 #电影网站
@@ -80,5 +78,6 @@ DOMAIN-SUFFIX,checkip.synology.com
 
 
 # 打印机
+DOMAIN-SUFFIX,epson.com
+DOMAIN-SUFFIX,epson.com.cn
 DOMAIN-SUFFIX,epsonconnect.com
-DOMAIN-SUFFIX,rtp.epson.com
