@@ -1,0 +1,36 @@
+# 韩国门户与社交
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,nate.com
+
+# 电商、交易与物流
+DOMAIN-SUFFIX,kream.co.kr
+DOMAIN-SUFFIX,coupang.com
+DOMAIN-SUFFIX,coupangcdn.com
+DOMAIN-SUFFIX,gmarket.co.kr
+DOMAIN-SUFFIX,auction.co.kr
+DOMAIN-SUFFIX,11st.co.kr
+DOMAIN-SUFFIX,interpark.com
+DOMAIN-SUFFIX,lotteon.com
+DOMAIN-SUFFIX,ssg.com
+DOMAIN-SUFFIX,cjlogistics.com
+DOMAIN-SUFFIX,epost.go.kr
+
+# 金融与企业服务
+DOMAIN-SUFFIX,moneypin.biz
+DOMAIN-SUFFIX,bizno.net
+DOMAIN-SUFFIX,naverpay.com
+DOMAIN-SUFFIX,inicis.com
+DOMAIN-SUFFIX,kginicis.com
+
+# 其它服务
+DOMAIN-SUFFIX,helpstore.shop
+
+# CDN 加速
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,cloudfront.net
+
+# kakao 补充
+DOMAIN-SUFFIX,kakaopay.com
+DOMAIN-SUFFIX,kakaotalk.com
