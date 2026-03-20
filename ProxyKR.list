@@ -4,8 +4,8 @@ DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,nate.com
 
 # 电商、交易与物流
-DOMAIN-SUFFIX,kream.co.kr
-DOMAIN-SUFFIX,coupang.com
+#DOMAIN-SUFFIX,kream.co.kr
+#DOMAIN-SUFFIX,coupang.com
 DOMAIN-SUFFIX,coupangcdn.com
 DOMAIN-SUFFIX,gmarket.co.kr
 DOMAIN-SUFFIX,auction.co.kr
