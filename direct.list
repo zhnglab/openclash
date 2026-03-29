@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,ftiy.org
 # 群晖DDNS获取IP
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,synology.com
 
 
 # 打印机
