@@ -117,7 +117,7 @@ DOMAIN-SUFFIX,synology.com
 
 # SSRDOG需要直连订阅的域名
 DOMAIN-SUFFIX,cdn-res-oss-cn-hongkong-aliyuncs-file.com
-
+DOMAIN-SUFFIX,o0bjnv9pkd.ssrdog.com
 
 # 打印机
 DOMAIN-SUFFIX,epson.com
