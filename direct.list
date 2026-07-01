@@ -110,7 +110,7 @@ DOMAIN-KEYWORD,kpkuang
 
 # emby个人服
 DOMAIN-SUFFIX,ftiy.org
-DOMAIN-SUFFIX,smart.uhdnow.com
+DOMAIN-SUFFIX,uhdnow.com
 
 # 群晖DDNS获取IP
 DOMAIN-SUFFIX,checkip.synology.com
