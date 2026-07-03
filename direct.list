@@ -111,6 +111,7 @@ DOMAIN-KEYWORD,kpkuang
 # emby个人服
 DOMAIN-SUFFIX,ftiy.org
 DOMAIN-SUFFIX,uhdnow.com
+IP-CIDR,91.107.207.219/32,no-resolve
 
 # 群晖DDNS获取IP
 DOMAIN-SUFFIX,checkip.synology.com
