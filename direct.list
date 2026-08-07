@@ -119,6 +119,7 @@ DOMAIN-KEYWORD,kpkuang
 DOMAIN-SUFFIX,ftiy.org
 DOMAIN-SUFFIX,uhdnow.com
 IP-CIDR,91.107.207.219/32,no-resolve
+DOMAIN-SUFFIX,playern.ec999.online
 
 # 群晖DDNS获取IP
 DOMAIN-SUFFIX,checkip.synology.com
