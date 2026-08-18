@@ -91,7 +91,9 @@ DOMAIN-SUFFIX,testipv6.cn
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,oplist.org
 DOMAIN-SUFFIX,dygangs.org
-DOMAIN-SUFFIX,youxi360.net
+DOMAIN-SUFFIX,youxi360.net  # 来源：老司機（肖）｜服务器：HK｜添加：2026-08-18
+
+
 #电影网站
 DOMAIN-SUFFIX,zenhillgarden.space
 DOMAIN-SUFFIX,dytt-cinema.com
