@@ -94,7 +94,19 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,oplist.org
 DOMAIN-SUFFIX,dygangs.org
 DOMAIN-SUFFIX,youxi360.net  # 来源：老司機（肖）｜服务器：HK｜添加：2026-08-18
-
+# 来源：冬宇|3个博彩类网站|添加：2026/08/21
+DOMAIN-SUFFIX,widget.namitiyu.com
+DOMAIN-SUFFIX,dccpevjk06009.app
+DOMAIN-SUFFIX,yoozb.live
+DOMAIN-SUFFIX,hjzb1.com
+DOMAIN-SUFFIX,k8v4dh4.app
+DOMAIN-SUFFIX,djiucf602.com
+DOMAIN-SUFFIX,onesignal.com
+DOMAIN-SUFFIX,jio3.com
+DOMAIN-SUFFIX,q8emjanes.com
+DOMAIN-SUFFIX,escc8patvn.com
+DOMAIN-SUFFIX,wiajeo605.com
+DOMAIN-SUFFIX,eeiibifa06012.app
 
 #电影网站
 DOMAIN-SUFFIX,zenhillgarden.space
