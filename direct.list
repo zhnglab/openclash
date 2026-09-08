@@ -149,6 +149,13 @@ DOMAIN-SUFFIX,mrstudio.vip
 DOMAIN-SUFFIX,340773.xyz
 DOMAIN-SUFFIX,0251107.xyz
 
+# slytom 2026年9月8日提交
+DOMAIN-SUFFIX,vip.liminalnet.team
+DOMAIN-SUFFIX,limina.552554.xyz
+DOMAIN-SUFFIX,cdn.liminalnet.team
+
+
+
 # 群晖DDNS获取IP
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,synology.me
