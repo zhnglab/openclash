@@ -178,6 +178,23 @@ DOMAIN-SUFFIX,epson.com
 DOMAIN-SUFFIX,epson.com.cn
 DOMAIN-SUFFIX,epsonconnect.com
 
+# 拓竹 Bambu Lab：官网、账号、云端 API、MQTT
+DOMAIN-SUFFIX,bambulab.com
+DOMAIN-SUFFIX,bambulab.cn
+DOMAIN-SUFFIX,bambulab.net
+
+# MakerWorld 模型社区
+DOMAIN-SUFFIX,makerworld.com
+DOMAIN-SUFFIX,makerworld.com.cn
+
+# 拓竹 / MakerWorld 静态资源与下载
+DOMAIN-SUFFIX,bblmw.com
+DOMAIN-SUFFIX,bblmw.cn
+DOMAIN-SUFFIX,bblcdn.com
+# 远程视频服务：共享平台，也会影响其他使用该平台的设备
+DOMAIN-SUFFIX,kalay.net.cn
+DOMAIN-SUFFIX,iotcplatform.com
+
 #白月光
 DOMAIN-SUFFIX,bbkss.org
 DOMAIN-SUFFIX,owolist.cn
