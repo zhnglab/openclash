@@ -209,3 +209,6 @@ DOMAIN-SUFFIX,bbkss.org
 DOMAIN-SUFFIX,owolist.cn
 DOMAIN-SUFFIX,qinyues4.cc
 DOMAIN-SUFFIX,yangliq.com
+
+#token API地址
+DOMAIN-SUFFIX,raygo.cc
