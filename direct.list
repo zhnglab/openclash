@@ -212,3 +212,7 @@ DOMAIN-SUFFIX,yangliq.com
 
 #token API地址
 DOMAIN-SUFFIX,raygo.cc
+
+
+#中转域名地址
+DOMAIN-SUFFIX,miyaip.app
