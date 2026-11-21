@@ -75,7 +75,9 @@ DOMAIN-SUFFIX,xzhang.320.io
 DOMAIN-SUFFIX,xzhang.iask.in
 DOMAIN-SUFFIX,yookingtoys.com
 DOMAIN-SUFFIX,052190.xyz
-
+# typeless语音助手
+DOMAIN-SUFFIX,typeless-static.com
+DOMAIN-SUFFIX,typeless.com
 # 通用网站
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,halo.run
