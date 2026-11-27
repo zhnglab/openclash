@@ -12,6 +12,11 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,ecufiles.cn
 DOMAIN-SUFFIX,browserleaks.com
 
+#  微软 Azure 全球版的云管理入口
+DOMAIN,portal.azure.com
+DOMAIN,management.azure.com
+
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
